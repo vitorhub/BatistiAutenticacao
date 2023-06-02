@@ -1,0 +1,5 @@
+npm install bcrypt dotenv express jsonwebtoken mongoose
+	bcrypt -> cria a hash de senha
+	dotenv -> para arquivo de configuração para dados sensiveis
+	jsonwebtoken
+npm install --save-dev nodemon
